@@ -46,3 +46,17 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Format with [Prettier](https://prettier.io/)
+
+Check formatting without changing files:
+
+```sh
+npm run format:check
+```
+
+Format the project:
+
+```sh
+npm run format
+```
