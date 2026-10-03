@@ -1,5 +1,19 @@
 @import './base.css';
 
+:root {
+  --background-color: #DCD7CC;
+  --primary-color: #E4DAFA;
+  --secondary-color: #6845D5;
+  --accent-color: #DFEE9F;
+  --accent-two-color: #F5CAB0;
+
+  color: #292630;
+
+  .p {
+    color: #706B76;
+  }
+}
+
 #app {
   max-width: 1280px;
   margin: 0 auto;
